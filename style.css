@@ -59,18 +59,21 @@ body {
   display: flex;
   justify-content: center;
   margin-top: 15px;
+  color: #321645;
 }
 
 .card-two h1 {
   display: flex;
   justify-content: center;
   margin-top: 15px;
+  color: #321645;
 }
 
 .card-three h1 {
   display: flex;
   justify-content: center;
   margin-top: 15px;
+  color: #321645;
 }
 
 .subs {
@@ -85,7 +88,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 25px;
+  font-size: 30px;
   margin-top: 30px;
 }
 
@@ -94,7 +97,8 @@ body {
   flex-direction: column;
   justify-content: center;
   list-style: none;
-  padding: 20px;
+  padding: 45px;
+  margin-top: -25px;
 }
 
 .pricing-details li {
@@ -104,7 +108,7 @@ body {
 .btn {
   display: flex;
   justify-content: center;
-  margin-top: 5px;
+  margin-top: -20px;
 }
 
 .btn button {
@@ -119,4 +123,12 @@ body {
   font-weight: 700;
   cursor: pointer;
   outline: none;
+}
+
+.icon-check {
+  color: #00a36c;
+}
+
+.icon_check {
+  color: red;
 }
